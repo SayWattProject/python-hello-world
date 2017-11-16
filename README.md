@@ -4,6 +4,7 @@ co2 impact
 goals and recs
 badges
 settings
+working on CI
 
 
 # Wallflower.Pico Server
