@@ -9,7 +9,6 @@ start = int(round(time.time()))
 
 @app.route("/")
 def hello_world():
-
     return "Hello world from Distelli & Docker!"
 
 if __name__ == '__main__':
