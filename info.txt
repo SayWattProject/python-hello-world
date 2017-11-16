@@ -1,0 +1,4 @@
+https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-automate-vm-deployment
+http://40.114.43.38/
+Hello World from host myVM!
+https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-jenkins-github-docker-cicd
